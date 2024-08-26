@@ -68,3 +68,4 @@ def consult(query):
 consult("안녕하세요. 오늘 날짜로 뉴욕행 비행기를 예약할 수 있나요?")
 
 
+
